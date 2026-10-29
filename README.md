@@ -2,7 +2,7 @@
 
 # Lab 1: Node.js and Express Server
 
-Live deployment URL: 
+Live deployment URL:https://backend-development-lab1.vercel.app/
 
 **Subject:** Backend Development Fundamentals  
 **Year/Term:** Year II, Term II  
