@@ -118,8 +118,7 @@ Home Route
 ![Screenshot](./Screenshot%202026-10-28%20161602.png )
 
 About Route
-![Screenshot](./Screenshot%202026-10-17%20202643.png)
-
+![Screenshot](./Screenshot%202026-10-28%20161620.png )
 Time Route
 ![Screenshot](./Screenshot%202026-10-17%20202714.png)
 
