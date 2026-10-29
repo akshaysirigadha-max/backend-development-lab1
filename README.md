@@ -2,7 +2,7 @@
 
 # Lab 1: Node.js and Express Server
 
-Live deployment URL:https://backend-development-fundamentals-la-zeta.vercel.app/
+Live deployment URL: 
 
 **Subject:** Backend Development Fundamentals  
 **Year/Term:** Year II, Term II  
